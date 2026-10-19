@@ -1,0 +1,1235 @@
+[
+  {
+    "name": "Rajasthani Thali",
+    "price": "350",
+    "calories": 1200,
+    "description": "A complete royal plate of sabzi, dal, breads and sweet.",
+    "category": "Rajasthani Specials",
+    "sourcePage": 3,
+    "subcategory": "Rajasthani Specials"
+  },
+  {
+    "name": "Besan Gatte ki Sabji",
+    "price": "179",
+    "calories": 450,
+    "description": "Gram-flour dumplings in a gentle yoghurt gravy.",
+    "category": "Rajasthani Specials",
+    "sourcePage": 3,
+    "subcategory": "Rajasthani Specials"
+  },
+  {
+    "name": "Gwar Fali ki Kadhi",
+    "price": "159",
+    "calories": 300,
+    "description": "A traditional Rajasthani yoghurt- and gram-flour-based curry made with tender cluster beans (gwar fali). The beans are gently simmered in a smooth, tangy gravy with regional spices.",
+    "category": "Rajasthani Specials",
+    "sourcePage": 3,
+    "subcategory": "Rajasthani Specials"
+  },
+  {
+    "name": "Ker Sangri",
+    "price": "349",
+    "calories": 450,
+    "description": "Desert beans and berries, slow-cooked with dry spices.",
+    "category": "Rajasthani Specials",
+    "sourcePage": 3,
+    "subcategory": "Rajasthani Specials"
+  },
+  {
+    "name": "Saag Roti",
+    "price": "450",
+    "calories": 650,
+    "description": "A rich, spiced winter vegetable curry made primarily with cauliflower (phool gobi) and green peas (matar). Slow-cooked in pure desi ghee with regional spices and served with roti.",
+    "category": "Rajasthani Specials",
+    "sourcePage": 3,
+    "subcategory": "Rajasthani Specials"
+  },
+  {
+    "name": "Dal Baati Churma",
+    "price": "349",
+    "calories": 1100,
+    "description": "Baked wheat baati, panchmel dal, jaggery churma.",
+    "category": "Rajasthani Specials",
+    "sourcePage": 3,
+    "subcategory": "Rajasthani Specials"
+  },
+  {
+    "name": "Mooli ki Sabji",
+    "price": "149",
+    "calories": 250,
+    "description": "A traditional North Indian dry curry made with fresh radishes (mooli) and their tender green leaves (mooli ke patte). Gently stir-fried with spices for a simple, earthy vegetable preparation.",
+    "category": "Rajasthani Specials",
+    "sourcePage": 3,
+    "subcategory": "Rajasthani Specials"
+  },
+  {
+    "name": "Kheer Churma",
+    "price": "199",
+    "calories": 600,
+    "description": "A festive dessert combination enjoyed in North Indian, Haryanvi and Rajasthani cooking. Creamy, slow-cooked rice kheer is paired with crumbly, sweet wheat-flour churma for a contrast of smooth and grainy textures.",
+    "category": "Rajasthani Specials",
+    "sourcePage": 3,
+    "subcategory": "Rajasthani Specials"
+  },
+  {
+    "name": "Manchow Soup",
+    "price": "99",
+    "calories": 150,
+    "description": "Cut vegetables with a tempering of ginger and garlic, full of flavour in every sip.",
+    "category": "Soups",
+    "sourcePage": 4,
+    "subcategory": "Soups"
+  },
+  {
+    "name": "Hot & Sour Soup",
+    "price": "99",
+    "calories": 100,
+    "description": "A spicy, tangy Indo-Chinese soup with mixed vegetables, mushrooms, soy sauce, herbs, vinegar and pepper.",
+    "category": "Soups",
+    "sourcePage": 4,
+    "subcategory": "Soups"
+  },
+  {
+    "name": "Sweet Corn Soup",
+    "price": "110",
+    "calories": 150,
+    "description": "American sweet-corn kernels blended with spices.",
+    "category": "Soups",
+    "sourcePage": 4,
+    "subcategory": "Soups"
+  },
+  {
+    "name": "Lemon Coriander Soup",
+    "price": "99",
+    "calories": 80,
+    "description": "A flavourful soup with lemon, coriander and spices.",
+    "category": "Soups",
+    "sourcePage": 4,
+    "subcategory": "Soups"
+  },
+  {
+    "name": "Almond Broccoli Soup",
+    "price": "119",
+    "calories": 220,
+    "description": "A rich, creamy soup full of broccoli and almond flavour.",
+    "category": "Soups",
+    "sourcePage": 4,
+    "subcategory": "Soups"
+  },
+  {
+    "name": "Clear Soup",
+    "price": "99",
+    "calories": 50,
+    "description": "A crystal-clear vegetable soup with herbs, prepared without any sauce.",
+    "category": "Soups",
+    "sourcePage": 4,
+    "subcategory": "Soups"
+  },
+  {
+    "name": "Creamy Mushroom Soup",
+    "price": "129",
+    "calories": 220,
+    "description": "Mushrooms sautéed with herbs and blended into a smooth purée.",
+    "category": "Soups",
+    "sourcePage": 4,
+    "subcategory": "Soups"
+  },
+  {
+    "name": "Dahi ke Sholey",
+    "price": "249",
+    "calories": 550,
+    "description": "Crispy Indian-style fried bread rolls stuffed with creamy hung curd.",
+    "category": "Tandoori Starters",
+    "sourcePage": 5,
+    "subcategory": "Tandoori Starters"
+  },
+  {
+    "name": "Malai Paneer Tikka",
+    "price": "299",
+    "calories": 600,
+    "description": "Soft cottage-cheese cubes in a rich, creamy and mildly spiced marinade, grilled to perfection.",
+    "category": "Tandoori Starters",
+    "sourcePage": 5,
+    "subcategory": "Tandoori Starters"
+  },
+  {
+    "name": "Achari Paneer Tikka",
+    "price": "299",
+    "calories": 500,
+    "description": "Soft cottage-cheese cubes coated in a spicy, tangy and smoky pickle-flavoured marinade.",
+    "category": "Tandoori Starters",
+    "sourcePage": 5,
+    "subcategory": "Tandoori Starters"
+  },
+  {
+    "name": "Mushroom Tikka",
+    "price": "249",
+    "calories": 300,
+    "description": "Stuffed mushrooms marinated with yoghurt and Indian spices.",
+    "category": "Tandoori Starters",
+    "sourcePage": 5,
+    "subcategory": "Tandoori Starters"
+  },
+  {
+    "name": "Malai Soya Chaap",
+    "price": "310",
+    "calories": 600,
+    "description": "Dhaba-style soya chaap marinated in a creamy sauce.",
+    "category": "Tandoori Starters",
+    "sourcePage": 5,
+    "subcategory": "Tandoori Starters"
+  },
+  {
+    "name": "Afghani Soya Chaap",
+    "price": "259",
+    "calories": 550,
+    "description": "Soya chaap cooked in a clay oven in the style of Mughlai cuisine.",
+    "category": "Tandoori Starters",
+    "sourcePage": 5,
+    "subcategory": "Tandoori Starters"
+  },
+  {
+    "name": "Hara Bhara Kebab",
+    "price": "249",
+    "calories": 450,
+    "description": "Crisp spinach, lentil and green-pea cutlets stuffed with cashew nuts, served with tangy mint chutney.",
+    "category": "Tandoori Starters",
+    "sourcePage": 5,
+    "subcategory": "Tandoori Starters"
+  },
+  {
+    "name": "Dahi ke Kebab",
+    "price": "299",
+    "calories": 500,
+    "description": "A creamy and crunchy kebab made with hung curd, paneer, cheese and saffron.",
+    "category": "Tandoori Starters",
+    "sourcePage": 5,
+    "subcategory": "Tandoori Starters"
+  },
+  {
+    "name": "Veg Platter",
+    "price": "599",
+    "calories": 1100,
+    "description": "A chef-selected platter of four items, each with its own distinct flavour.",
+    "category": "Tandoori Starters",
+    "sourcePage": 5,
+    "subcategory": "Tandoori Starters"
+  },
+  {
+    "name": "Soya Galouti Kebab",
+    "price": "299",
+    "calories": 450,
+    "description": "Mughlai-style melt-in-the-mouth soya kebabs, infused with royal spices and finished on a sizzling kebab hot plate.",
+    "category": "Tandoori Starters",
+    "sourcePage": 5,
+    "subcategory": "Tandoori Starters"
+  },
+  {
+    "name": "Chilli Potato",
+    "price": "191",
+    "calories": 600,
+    "description": "Julienned vegetables and potatoes tossed with sauces.",
+    "category": "Indo-Chinese",
+    "sourcePage": 6,
+    "subcategory": "Indo-Chinese"
+  },
+  {
+    "name": "Chilli Paneer",
+    "price": "249",
+    "calories": 650,
+    "description": "Diced bell peppers, onion, chives and paneer tossed in the wok with ginger, garlic and sauces.",
+    "category": "Indo-Chinese",
+    "sourcePage": 6,
+    "subcategory": "Indo-Chinese"
+  },
+  {
+    "name": "Veg Manchurian",
+    "price": "229 / 239",
+    "calories": 500,
+    "description": "Crispy fried vegetable balls in a spicy, sweet and tangy Manchurian sauce, served dry or with gravy.",
+    "category": "Indo-Chinese",
+    "sourcePage": 6,
+    "subcategory": "Indo-Chinese"
+  },
+  {
+    "name": "Momo",
+    "price": "149",
+    "calories": 300,
+    "description": "Steamed, filled dumplings from Nepalese and Tibetan cuisine, served with hot, spicy sauce.",
+    "category": "Indo-Chinese",
+    "sourcePage": 6,
+    "subcategory": "Indo-Chinese"
+  },
+  {
+    "name": "Corn Salt & Pepper",
+    "price": "299",
+    "calories": 450,
+    "description": "Crispy American corn wok-tossed with ginger, garlic, chopped bell peppers and onion.",
+    "category": "Indo-Chinese",
+    "sourcePage": 6,
+    "subcategory": "Indo-Chinese"
+  },
+  {
+    "name": "Crispy Corn",
+    "price": "229",
+    "calories": 500,
+    "description": "Crispy corn wok-tossed with chopped bell peppers, onion and sauces.",
+    "category": "Indo-Chinese",
+    "sourcePage": 6,
+    "subcategory": "Indo-Chinese"
+  },
+  {
+    "name": "Veg Hot Garlic Sauce",
+    "price": "229",
+    "calories": 350,
+    "description": "Seasonal vegetables in the chef’s hot garlic sauce.",
+    "category": "Indo-Chinese",
+    "sourcePage": 6,
+    "subcategory": "Indo-Chinese"
+  },
+  {
+    "name": "Chilli Mushroom",
+    "price": "249",
+    "calories": 450,
+    "description": "Crispy fried mushrooms tossed with diced bell peppers, onion and sauce.",
+    "category": "Indo-Chinese",
+    "sourcePage": 6,
+    "subcategory": "Indo-Chinese"
+  },
+  {
+    "name": "Veg Lollipop",
+    "price": "239",
+    "calories": 550,
+    "description": "Minced vegetables and cottage cheese shaped into lollipops on sticks, deep-fried in fresh peanut oil. Served as eight pieces.",
+    "category": "Indo-Chinese",
+    "sourcePage": 6,
+    "subcategory": "Indo-Chinese"
+  },
+  {
+    "name": "Classic Margherita",
+    "price": "239",
+    "calories": 750,
+    "description": "A traditional Italian-style pizza topped with cheese and the flavour of basil leaves.",
+    "category": "Pizza & Sandwiches",
+    "sourcePage": 7,
+    "subcategory": "Pizza"
+  },
+  {
+    "name": "Al Funghi",
+    "price": "239",
+    "calories": 800,
+    "description": "Fresh sautéed mushrooms and onion, stir-mixed together and baked on a pizza base with plenty of cheese.",
+    "category": "Pizza & Sandwiches",
+    "sourcePage": 7,
+    "subcategory": "Pizza"
+  },
+  {
+    "name": "Corn & Onion",
+    "price": "239",
+    "calories": 800,
+    "description": "Onion and sweet corn spread over a pizza base, with a little touch of oregano.",
+    "category": "Pizza & Sandwiches",
+    "sourcePage": 7,
+    "subcategory": "Pizza"
+  },
+  {
+    "name": "OTC Pizza",
+    "price": "239",
+    "calories": 850,
+    "description": "Onion, tomato and capsicum pizza.",
+    "category": "Pizza & Sandwiches",
+    "sourcePage": 7,
+    "subcategory": "Pizza"
+  },
+  {
+    "name": "All Veggies",
+    "price": "239",
+    "calories": 800,
+    "description": "Stir-fried vegetables sautéed together and spread over a pizza base with plenty of cheese.",
+    "category": "Pizza & Sandwiches",
+    "sourcePage": 7,
+    "subcategory": "Pizza"
+  },
+  {
+    "name": "Chilli Paneer Pizza",
+    "price": "269",
+    "calories": 950,
+    "description": "The flavour of chilli paneer on a pizza base, topped with cheese.",
+    "category": "Pizza & Sandwiches",
+    "sourcePage": 7,
+    "subcategory": "Pizza"
+  },
+  {
+    "name": "Paneer Tikka Pizza",
+    "price": "269",
+    "calories": 950,
+    "description": "Properly grilled paneer tikka spread over a pizza base.",
+    "category": "Pizza & Sandwiches",
+    "sourcePage": 7,
+    "subcategory": "Pizza"
+  },
+  {
+    "name": "Chilli Mushroom Pizza",
+    "price": "249",
+    "calories": 850,
+    "description": "Chilli mushrooms on a cheesy base.",
+    "category": "Pizza & Sandwiches",
+    "sourcePage": 7,
+    "subcategory": "Pizza"
+  },
+  {
+    "name": "Tandoori Paneer Tikka",
+    "price": "219",
+    "calories": 550,
+    "description": "Bread layered with sauces and grilled tandoori paneer, with flavour in every bite.",
+    "category": "Pizza & Sandwiches",
+    "sourcePage": 7,
+    "subcategory": "Sandwiches"
+  },
+  {
+    "name": "Plain Cucumber",
+    "price": "199",
+    "calories": 300,
+    "description": "Fresh cucumber slices layered in bread for a light, refreshing sandwich.",
+    "category": "Pizza & Sandwiches",
+    "sourcePage": 7,
+    "subcategory": "Sandwiches"
+  },
+  {
+    "name": "Coleslaw",
+    "price": "169",
+    "calories": 450,
+    "description": "Mixed vegetables and cabbage combined with mayonnaise and filled between slices of bread.",
+    "category": "Pizza & Sandwiches",
+    "sourcePage": 7,
+    "subcategory": "Sandwiches"
+  },
+  {
+    "name": "Grilled Mushroom & Cheese",
+    "price": "199",
+    "calories": 500,
+    "description": "Sautéed mushrooms and melted cheese layered in bread and grilled until golden.",
+    "category": "Pizza & Sandwiches",
+    "sourcePage": 7,
+    "subcategory": "Sandwiches"
+  },
+  {
+    "name": "Club Sandwich",
+    "price": "199",
+    "calories": 650,
+    "description": "A layered vegetable sandwich, with a different flavour in every layer.",
+    "category": "Pizza & Sandwiches",
+    "sourcePage": 7,
+    "subcategory": "Sandwiches"
+  },
+  {
+    "name": "Grilled Paneer",
+    "price": "199",
+    "calories": 500,
+    "description": "Paneer layered between slices of bread and grilled for a warm, savoury sandwich.",
+    "category": "Pizza & Sandwiches",
+    "sourcePage": 7,
+    "subcategory": "Sandwiches"
+  },
+  {
+    "name": "Kadai Paneer",
+    "price": "299",
+    "calories": 550,
+    "description": "Paneer, capsicum, tomato and onion cooked with the chef’s masala in a North Indian restaurant-style preparation.",
+    "category": "Paneer & Dal",
+    "sourcePage": 8,
+    "subcategory": "Paneer & Dal"
+  },
+  {
+    "name": "Paneer Butter Masala",
+    "price": "299",
+    "calories": 650,
+    "description": "Paneer in a rich gravy made with butter, tomato and cashews.",
+    "category": "Paneer & Dal",
+    "sourcePage": 8,
+    "subcategory": "Paneer & Dal"
+  },
+  {
+    "name": "Palak Paneer",
+    "price": "249",
+    "calories": 450,
+    "description": "Paneer served in a thick spinach purée, a classic dish from the Indian subcontinent.",
+    "category": "Paneer & Dal",
+    "sourcePage": 8,
+    "subcategory": "Paneer & Dal"
+  },
+  {
+    "name": "Paneer Do Pyaza",
+    "price": "299",
+    "calories": 550,
+    "description": "A Mughlai-style paneer dish tossed in a flavourful masala gravy.",
+    "category": "Paneer & Dal",
+    "sourcePage": 8,
+    "subcategory": "Paneer & Dal"
+  },
+  {
+    "name": "Paneer Handi",
+    "price": "299",
+    "calories": 550,
+    "description": "Paneer steamed with mixed vegetables and cooked in a masala gravy.",
+    "category": "Paneer & Dal",
+    "sourcePage": 8,
+    "subcategory": "Paneer & Dal"
+  },
+  {
+    "name": "Paneer Lababdar",
+    "price": "299",
+    "calories": 650,
+    "description": "A restaurant-style North Indian curry with paneer in a creamy onion, tomato and cashew-based gravy.",
+    "category": "Paneer & Dal",
+    "sourcePage": 8,
+    "subcategory": "Paneer & Dal"
+  },
+  {
+    "name": "Paneer Pasanda",
+    "price": "299",
+    "calories": 700,
+    "description": "Batter-coated paneer, fried and served in a smooth onion, tomato and cashew gravy.",
+    "category": "Paneer & Dal",
+    "sourcePage": 8,
+    "subcategory": "Paneer & Dal"
+  },
+  {
+    "name": "Paneer Kofta",
+    "price": "299",
+    "calories": 650,
+    "description": "Paneer koftas served in a delicious, creamy gravy.",
+    "category": "Paneer & Dal",
+    "sourcePage": 8,
+    "subcategory": "Paneer & Dal"
+  },
+  {
+    "name": "Dal Tadka",
+    "price": "229",
+    "calories": 350,
+    "description": "A homely preparation of yellow lentils, tempered with spices and desi ghee.",
+    "category": "Paneer & Dal",
+    "sourcePage": 8,
+    "subcategory": "Paneer & Dal"
+  },
+  {
+    "name": "Dal Makhani",
+    "price": "249",
+    "calories": 450,
+    "description": "Whole black lentils simmered with aromatic spices, tomatoes and garlic, then finished with cream.",
+    "category": "Paneer & Dal",
+    "sourcePage": 8,
+    "subcategory": "Paneer & Dal"
+  },
+  {
+    "name": "Mixed Veg",
+    "price": "249",
+    "calories": 300,
+    "description": "Four to five types of vegetables tossed with chopped masala and Indian spices.",
+    "category": "Vegetable Classics",
+    "sourcePage": 9,
+    "subcategory": "Vegetable Classics"
+  },
+  {
+    "name": "Veg Handi",
+    "price": "249",
+    "calories": 450,
+    "description": "Steamed mixed vegetables cooked with masala in a creamy gravy.",
+    "category": "Vegetable Classics",
+    "sourcePage": 9,
+    "subcategory": "Vegetable Classics"
+  },
+  {
+    "name": "Baingan Bharta",
+    "price": "249",
+    "calories": 250,
+    "description": "Mashed, fire-roasted eggplant cooked with onion, tomato and spices.",
+    "category": "Vegetable Classics",
+    "sourcePage": 9,
+    "subcategory": "Vegetable Classics"
+  },
+  {
+    "name": "Methi Mutter",
+    "price": "199",
+    "calories": 450,
+    "description": "A North Indian curry of fenugreek leaves and green peas in a buttery sauce.",
+    "category": "Vegetable Classics",
+    "sourcePage": 9,
+    "subcategory": "Vegetable Classics"
+  },
+  {
+    "name": "Aloo Mutter",
+    "price": "199",
+    "calories": 350,
+    "description": "Diced potatoes and peas cooked in a dhaba-style masala gravy.",
+    "category": "Vegetable Classics",
+    "sourcePage": 9,
+    "subcategory": "Vegetable Classics"
+  },
+  {
+    "name": "Aloo Jeera",
+    "price": "199",
+    "calories": 350,
+    "description": "Boiled potato chunks tossed with whole cumin seeds.",
+    "category": "Vegetable Classics",
+    "sourcePage": 9,
+    "subcategory": "Vegetable Classics"
+  },
+  {
+    "name": "Tandoori Roti",
+    "price": "18",
+    "calories": 120,
+    "description": "Wheat bread baked in the tandoor.",
+    "category": "Breads",
+    "sourcePage": 10,
+    "subcategory": "Breads"
+  },
+  {
+    "name": "Tandoori Butter Roti",
+    "price": "24",
+    "calories": 160,
+    "description": "Tandoori wheat bread with butter.",
+    "category": "Breads",
+    "sourcePage": 10,
+    "subcategory": "Breads"
+  },
+  {
+    "name": "Tawa Roti",
+    "price": "12",
+    "calories": 100,
+    "description": "Whole-wheat roti cooked on a tawa.",
+    "category": "Breads",
+    "sourcePage": 10,
+    "subcategory": "Breads"
+  },
+  {
+    "name": "Tawa Butter Roti",
+    "price": "16",
+    "calories": 140,
+    "description": "Tawa-cooked wheat roti with butter.",
+    "category": "Breads",
+    "sourcePage": 10,
+    "subcategory": "Breads"
+  },
+  {
+    "name": "Missi Roti",
+    "price": "45",
+    "calories": 180,
+    "description": "Spiced wheat and gram-flour roti.",
+    "category": "Breads",
+    "sourcePage": 10,
+    "subcategory": "Breads"
+  },
+  {
+    "name": "Plain Naan",
+    "price": "45",
+    "calories": 250,
+    "description": "Soft refined-flour tandoori bread.",
+    "category": "Breads",
+    "sourcePage": 10,
+    "subcategory": "Breads"
+  },
+  {
+    "name": "Butter Naan",
+    "price": "55",
+    "calories": 300,
+    "description": "Soft tandoori naan with butter.",
+    "category": "Breads",
+    "sourcePage": 10,
+    "subcategory": "Breads"
+  },
+  {
+    "name": "Garlic Naan",
+    "price": "59",
+    "calories": 300,
+    "description": "Tandoori naan flavoured with garlic.",
+    "category": "Breads",
+    "sourcePage": 10,
+    "subcategory": "Breads"
+  },
+  {
+    "name": "Stuffed Kulcha",
+    "price": "89",
+    "calories": 330,
+    "description": "Tandoori bread with savoury stuffing.",
+    "category": "Breads",
+    "sourcePage": 10,
+    "subcategory": "Breads"
+  },
+  {
+    "name": "Pyaaz Kulcha",
+    "price": "55",
+    "calories": 280,
+    "description": "Tandoori bread with an onion filling.",
+    "category": "Breads",
+    "sourcePage": 10,
+    "subcategory": "Breads"
+  },
+  {
+    "name": "Lachha Paratha",
+    "price": "55",
+    "calories": 320,
+    "description": "Crisp, layered whole-wheat bread.",
+    "category": "Breads",
+    "sourcePage": 10,
+    "subcategory": "Breads"
+  },
+  {
+    "name": "Pudina Paratha",
+    "price": "59",
+    "calories": 300,
+    "description": "Layered bread flavoured with mint.",
+    "category": "Breads",
+    "sourcePage": 10,
+    "subcategory": "Breads"
+  },
+  {
+    "name": "Spicy Mango",
+    "price": "159",
+    "calories": 200,
+    "description": "A sweet mango mocktail with a spicy kick.",
+    "category": "Mocktails",
+    "sourcePage": 11,
+    "subcategory": "Mocktails"
+  },
+  {
+    "name": "Purple Orchid",
+    "price": "139",
+    "calories": 180,
+    "description": "A refreshing house-special mocktail.",
+    "category": "Mocktails",
+    "sourcePage": 11,
+    "subcategory": "Mocktails"
+  },
+  {
+    "name": "Blackcurrant Mojito",
+    "price": "139",
+    "calories": 180,
+    "description": "A minty mocktail with blackcurrant flavour.",
+    "category": "Mocktails",
+    "sourcePage": 11,
+    "subcategory": "Mocktails"
+  },
+  {
+    "name": "Blue Lagoon",
+    "price": "129",
+    "calories": 180,
+    "description": "A bright blue, refreshing mocktail.",
+    "category": "Mocktails",
+    "sourcePage": 11,
+    "subcategory": "Mocktails"
+  },
+  {
+    "name": "Blueberry Mojito",
+    "price": "139",
+    "calories": 180,
+    "description": "A minty mocktail with blueberry flavour.",
+    "category": "Mocktails",
+    "sourcePage": 11,
+    "subcategory": "Mocktails"
+  },
+  {
+    "name": "Orange Mojito",
+    "price": "139",
+    "calories": 170,
+    "description": "Orange flavour with a refreshing minty twist.",
+    "category": "Mocktails",
+    "sourcePage": 11,
+    "subcategory": "Mocktails"
+  },
+  {
+    "name": "Fuzi Island",
+    "price": "139",
+    "calories": 200,
+    "description": "A refreshing house-special mocktail.",
+    "category": "Mocktails",
+    "sourcePage": 11,
+    "subcategory": "Mocktails"
+  },
+  {
+    "name": "Mint Caprioska",
+    "price": "129",
+    "calories": 180,
+    "description": "A crisp, refreshing mint mocktail.",
+    "category": "Mocktails",
+    "sourcePage": 11,
+    "subcategory": "Mocktails"
+  },
+  {
+    "name": "Russian Summer",
+    "price": "179",
+    "calories": 220,
+    "description": "A refreshing house-special mocktail.",
+    "category": "Mocktails",
+    "sourcePage": 11,
+    "subcategory": "Mocktails"
+  },
+  {
+    "name": "Masala Lemonade",
+    "price": "99",
+    "calories": 120,
+    "description": "Lemonade with a lively masala twist.",
+    "category": "Mocktails",
+    "sourcePage": 11,
+    "subcategory": "Mocktails"
+  },
+  {
+    "name": "Fresh Lime Soda",
+    "price": "99",
+    "calories": 100,
+    "description": "Fresh lime mixed with fizzy soda.",
+    "category": "Mocktails",
+    "sourcePage": 11,
+    "subcategory": "Mocktails"
+  },
+  {
+    "name": "Fresh Lime Juice",
+    "price": "79",
+    "calories": 100,
+    "description": "A refreshing drink of fresh lime and water.",
+    "category": "Mocktails",
+    "sourcePage": 11,
+    "subcategory": "Mocktails"
+  },
+  {
+    "name": "Italian Ceramusa",
+    "price": "129",
+    "calories": 220,
+    "description": "A refreshing house-special mocktail.",
+    "category": "Mocktails",
+    "sourcePage": 11,
+    "subcategory": "Mocktails"
+  },
+  {
+    "name": "Bubblegum Berry Blast",
+    "price": "139",
+    "calories": 250,
+    "description": "A playful blend of berry and bubblegum flavours.",
+    "category": "Mocktails",
+    "sourcePage": 11,
+    "subcategory": "Mocktails"
+  },
+  {
+    "name": "Peach Lemonade",
+    "price": "129",
+    "calories": 180,
+    "description": "Refreshing lemonade with peach flavour.",
+    "category": "Mocktails",
+    "sourcePage": 11,
+    "subcategory": "Mocktails"
+  },
+  {
+    "name": "Cold Coffee",
+    "price": "119",
+    "calories": 350,
+    "description": "A chilled, creamy coffee drink.",
+    "category": "Coffee, Shakes & Tea",
+    "sourcePage": 12,
+    "subcategory": "Cold Coffee"
+  },
+  {
+    "name": "Cold Coffee with Ice Cream",
+    "price": "139",
+    "calories": 500,
+    "description": "Cold coffee with ice cream.",
+    "category": "Coffee, Shakes & Tea",
+    "sourcePage": 12,
+    "subcategory": "Cold Coffee"
+  },
+  {
+    "name": "Banana",
+    "price": "110",
+    "calories": 400,
+    "description": "A creamy banana milkshake.",
+    "category": "Coffee, Shakes & Tea",
+    "sourcePage": 12,
+    "subcategory": "Milkshakes"
+  },
+  {
+    "name": "Oreo",
+    "price": "139",
+    "calories": 550,
+    "description": "A creamy Oreo cookie milkshake.",
+    "category": "Coffee, Shakes & Tea",
+    "sourcePage": 12,
+    "subcategory": "Milkshakes"
+  },
+  {
+    "name": "Chocolate",
+    "price": "139",
+    "calories": 500,
+    "description": "A rich chocolate milkshake.",
+    "category": "Coffee, Shakes & Tea",
+    "sourcePage": 12,
+    "subcategory": "Milkshakes"
+  },
+  {
+    "name": "Butterscotch",
+    "price": "139",
+    "calories": 500,
+    "description": "A creamy butterscotch shake.",
+    "category": "Coffee, Shakes & Tea",
+    "sourcePage": 12,
+    "subcategory": "Milkshakes"
+  },
+  {
+    "name": "Strawberry",
+    "price": "139",
+    "calories": 400,
+    "description": "A fruity strawberry milkshake.",
+    "category": "Coffee, Shakes & Tea",
+    "sourcePage": 12,
+    "subcategory": "Milkshakes"
+  },
+  {
+    "name": "Mango",
+    "price": "149",
+    "calories": 450,
+    "description": "A creamy mango milkshake.",
+    "category": "Coffee, Shakes & Tea",
+    "sourcePage": 12,
+    "subcategory": "Milkshakes"
+  },
+  {
+    "name": "Dry Fruit",
+    "price": "179",
+    "calories": 600,
+    "description": "A rich dry-fruit milkshake.",
+    "category": "Coffee, Shakes & Tea",
+    "sourcePage": 12,
+    "subcategory": "Milkshakes"
+  },
+  {
+    "name": "Blackcurrant",
+    "price": "139",
+    "calories": 400,
+    "description": "A creamy blackcurrant shake.",
+    "category": "Coffee, Shakes & Tea",
+    "sourcePage": 12,
+    "subcategory": "Milkshakes"
+  },
+  {
+    "name": "Blueberry",
+    "price": "129",
+    "calories": 400,
+    "description": "A fruity blueberry milkshake.",
+    "category": "Coffee, Shakes & Tea",
+    "sourcePage": 12,
+    "subcategory": "Milkshakes"
+  },
+  {
+    "name": "Vanilla",
+    "price": "129",
+    "calories": 400,
+    "description": "A smooth vanilla milkshake.",
+    "category": "Coffee, Shakes & Tea",
+    "sourcePage": 12,
+    "subcategory": "Milkshakes"
+  },
+  {
+    "name": "KitKat",
+    "price": "139",
+    "calories": 550,
+    "description": "A creamy KitKat wafer shake.",
+    "category": "Coffee, Shakes & Tea",
+    "sourcePage": 12,
+    "subcategory": "Milkshakes"
+  },
+  {
+    "name": "Cappuccino",
+    "price": "89",
+    "calories": 120,
+    "description": "Coffee with steamed milk and foam.",
+    "category": "Coffee, Shakes & Tea",
+    "sourcePage": 12,
+    "subcategory": "Coffee & Cocoa"
+  },
+  {
+    "name": "Mocaccino",
+    "price": "101",
+    "calories": 220,
+    "description": "Coffee with chocolate and milk.",
+    "category": "Coffee, Shakes & Tea",
+    "sourcePage": 12,
+    "subcategory": "Coffee & Cocoa"
+  },
+  {
+    "name": "Black Coffee",
+    "price": "49",
+    "calories": 5,
+    "description": "Fresh coffee served without milk.",
+    "category": "Coffee, Shakes & Tea",
+    "sourcePage": 12,
+    "subcategory": "Coffee & Cocoa"
+  },
+  {
+    "name": "Hot Chocolate",
+    "price": "119",
+    "calories": 300,
+    "description": "A warm, rich chocolate drink.",
+    "category": "Coffee, Shakes & Tea",
+    "sourcePage": 12,
+    "subcategory": "Coffee & Cocoa"
+  },
+  {
+    "name": "Caffè Latte",
+    "price": "99",
+    "calories": 150,
+    "description": "Coffee with smooth steamed milk.",
+    "category": "Coffee, Shakes & Tea",
+    "sourcePage": 12,
+    "subcategory": "Coffee & Cocoa"
+  },
+  {
+    "name": "Lemon Tea",
+    "price": "49",
+    "calories": 40,
+    "description": "Tea with a refreshing lemon touch.",
+    "category": "Coffee, Shakes & Tea",
+    "sourcePage": 12,
+    "subcategory": "Tea"
+  },
+  {
+    "name": "Ginger Tea",
+    "price": "30",
+    "calories": 100,
+    "description": "A warming ginger-flavoured tea.",
+    "category": "Coffee, Shakes & Tea",
+    "sourcePage": 12,
+    "subcategory": "Tea"
+  },
+  {
+    "name": "Masala Tea",
+    "price": "30",
+    "calories": 110,
+    "description": "Tea brewed with aromatic spices.",
+    "category": "Coffee, Shakes & Tea",
+    "sourcePage": 12,
+    "subcategory": "Tea"
+  },
+  {
+    "name": "Plain Tea",
+    "price": "30",
+    "calories": 100,
+    "description": "A comforting cup of milk tea.",
+    "category": "Coffee, Shakes & Tea",
+    "sourcePage": 12,
+    "subcategory": "Tea"
+  },
+  {
+    "name": "Gulab Jamun",
+    "price": "50",
+    "calories": 300,
+    "description": "Two pieces, warm syrup.",
+    "category": "Desserts",
+    "sourcePage": 13,
+    "subcategory": "Desserts"
+  },
+  {
+    "name": "Dry Fruit Kheer",
+    "price": "149",
+    "calories": 350,
+    "description": "Creamy rice pudding with dry fruits.",
+    "category": "Desserts",
+    "sourcePage": 13,
+    "subcategory": "Desserts"
+  },
+  {
+    "name": "Gajar ka Halwa",
+    "price": "109",
+    "calories": 450,
+    "description": "A rich, slow-cooked carrot dessert.",
+    "category": "Desserts",
+    "sourcePage": 13,
+    "subcategory": "Desserts"
+  },
+  {
+    "name": "Moong Dal Halwa",
+    "price": "99",
+    "calories": 500,
+    "description": "A rich, sweet moong-lentil dessert.",
+    "category": "Desserts",
+    "sourcePage": 13,
+    "subcategory": "Desserts"
+  },
+  {
+    "name": "Churma Ladoo",
+    "price": "50",
+    "calories": 250,
+    "description": "Sweet wheat-flour laddoos.",
+    "category": "Desserts",
+    "sourcePage": 13,
+    "subcategory": "Desserts"
+  },
+  {
+    "name": "Mawa Chori",
+    "price": "40",
+    "calories": 350,
+    "description": "Sweet pastry with a rich mawa filling.",
+    "category": "Desserts",
+    "sourcePage": 13,
+    "subcategory": "Desserts"
+  },
+  {
+    "name": "Cham Cham",
+    "price": "30",
+    "calories": 180,
+    "description": "Soft, syrup-soaked chhena sweets.",
+    "category": "Desserts",
+    "sourcePage": 13,
+    "subcategory": "Desserts"
+  },
+  {
+    "name": "Ice Cream",
+    "price": "69",
+    "calories": 200,
+    "description": "A chilled, creamy sweet treat.",
+    "category": "Desserts",
+    "sourcePage": 13,
+    "subcategory": "Desserts"
+  },
+  {
+    "name": "Salt & Pepper Corn",
+    "price": "299",
+    "calories": 450,
+    "description": "",
+    "category": "Chef’s Special",
+    "sourcePage": 14,
+    "subcategory": "Chef’s Special"
+  },
+  {
+    "name": "Crispy Veg",
+    "price": "289",
+    "calories": 500,
+    "description": "",
+    "category": "Chef’s Special",
+    "sourcePage": 14,
+    "subcategory": "Chef’s Special"
+  },
+  {
+    "name": "Hong Kong Style Paneer Mancho",
+    "price": "349",
+    "calories": 650,
+    "description": "",
+    "category": "Chef’s Special",
+    "sourcePage": 14,
+    "subcategory": "Chef’s Special"
+  },
+  {
+    "name": "Thread Paneer",
+    "price": "310",
+    "calories": 600,
+    "description": "",
+    "category": "Chef’s Special",
+    "sourcePage": 14,
+    "subcategory": "Chef’s Special"
+  },
+  {
+    "name": "Kesary Kofta Curry",
+    "price": "349",
+    "calories": 650,
+    "description": "",
+    "category": "Chef’s Special",
+    "sourcePage": 14,
+    "subcategory": "Chef’s Special"
+  },
+  {
+    "name": "Soya Galouti Kebab",
+    "price": "299",
+    "calories": 450,
+    "description": "",
+    "category": "Chef’s Special",
+    "sourcePage": 14,
+    "subcategory": "Chef’s Special"
+  },
+  {
+    "name": "Soya Malai Chaap",
+    "price": "310",
+    "calories": 600,
+    "description": "",
+    "category": "Chef’s Special",
+    "sourcePage": 14,
+    "subcategory": "Chef’s Special"
+  },
+  {
+    "name": "Adraki Paneer",
+    "price": "325",
+    "calories": 550,
+    "description": "",
+    "category": "Chef’s Special",
+    "sourcePage": 14,
+    "subcategory": "Chef’s Special"
+  },
+  {
+    "name": "Amritsari Paneer Bhurji",
+    "price": "299",
+    "calories": 600,
+    "description": "",
+    "category": "Chef’s Special",
+    "sourcePage": 14,
+    "subcategory": "Chef’s Special"
+  },
+  {
+    "name": "Lahori Soya Changeji",
+    "price": "310",
+    "calories": 600,
+    "description": "",
+    "category": "Chef’s Special",
+    "sourcePage": 14,
+    "subcategory": "Chef’s Special"
+  },
+  {
+    "name": "Lahori Paneer Changeji",
+    "price": "335",
+    "calories": 650,
+    "description": "",
+    "category": "Chef’s Special",
+    "sourcePage": 14,
+    "subcategory": "Chef’s Special"
+  },
+  {
+    "name": "Paneer Tikka Butter Masala",
+    "price": "310",
+    "calories": 650,
+    "description": "",
+    "category": "Chef’s Special",
+    "sourcePage": 14,
+    "subcategory": "Chef’s Special"
+  },
+  {
+    "name": "Crunchy Paneer Diamond Sandwich",
+    "price": "249",
+    "calories": 650,
+    "description": "",
+    "category": "Chef’s Special",
+    "sourcePage": 14,
+    "subcategory": "Chef’s Special"
+  },
+  {
+    "name": "Cheese Blast Sandwich",
+    "price": "249",
+    "calories": 700,
+    "description": "",
+    "category": "Chef’s Special",
+    "sourcePage": 14,
+    "subcategory": "Chef’s Special"
+  },
+  {
+    "name": "Rajma Rasila Punjabi Style",
+    "price": "299",
+    "calories": 350,
+    "description": "",
+    "category": "Chef’s Special",
+    "sourcePage": 14,
+    "subcategory": "Chef’s Special"
+  },
+  {
+    "name": "Pindi Chana",
+    "price": "289",
+    "calories": 400,
+    "description": "",
+    "category": "Chef’s Special",
+    "sourcePage": 14,
+    "subcategory": "Chef’s Special"
+  }
+]

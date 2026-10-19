@@ -1,0 +1,138 @@
+﻿category,subcategory,name,price,calories,description,sourcePage
+Rajasthani Specials,Rajasthani Specials,Rajasthani Thali,350,1200,"A complete royal plate of sabzi, dal, breads and sweet.",3
+Rajasthani Specials,Rajasthani Specials,Besan Gatte ki Sabji,179,450,Gram-flour dumplings in a gentle yoghurt gravy.,3
+Rajasthani Specials,Rajasthani Specials,Gwar Fali ki Kadhi,159,300,"A traditional Rajasthani yoghurt- and gram-flour-based curry made with tender cluster beans (gwar fali). The beans are gently simmered in a smooth, tangy gravy with regional spices.",3
+Rajasthani Specials,Rajasthani Specials,Ker Sangri,349,450,"Desert beans and berries, slow-cooked with dry spices.",3
+Rajasthani Specials,Rajasthani Specials,Saag Roti,450,650,"A rich, spiced winter vegetable curry made primarily with cauliflower (phool gobi) and green peas (matar). Slow-cooked in pure desi ghee with regional spices and served with roti.",3
+Rajasthani Specials,Rajasthani Specials,Dal Baati Churma,349,1100,"Baked wheat baati, panchmel dal, jaggery churma.",3
+Rajasthani Specials,Rajasthani Specials,Mooli ki Sabji,149,250,"A traditional North Indian dry curry made with fresh radishes (mooli) and their tender green leaves (mooli ke patte). Gently stir-fried with spices for a simple, earthy vegetable preparation.",3
+Rajasthani Specials,Rajasthani Specials,Kheer Churma,199,600,"A festive dessert combination enjoyed in North Indian, Haryanvi and Rajasthani cooking. Creamy, slow-cooked rice kheer is paired with crumbly, sweet wheat-flour churma for a contrast of smooth and grainy textures.",3
+Soups,Soups,Manchow Soup,99,150,"Cut vegetables with a tempering of ginger and garlic, full of flavour in every sip.",4
+Soups,Soups,Hot & Sour Soup,99,100,"A spicy, tangy Indo-Chinese soup with mixed vegetables, mushrooms, soy sauce, herbs, vinegar and pepper.",4
+Soups,Soups,Sweet Corn Soup,110,150,American sweet-corn kernels blended with spices.,4
+Soups,Soups,Lemon Coriander Soup,99,80,"A flavourful soup with lemon, coriander and spices.",4
+Soups,Soups,Almond Broccoli Soup,119,220,"A rich, creamy soup full of broccoli and almond flavour.",4
+Soups,Soups,Clear Soup,99,50,"A crystal-clear vegetable soup with herbs, prepared without any sauce.",4
+Soups,Soups,Creamy Mushroom Soup,129,220,Mushrooms sautéed with herbs and blended into a smooth purée.,4
+Tandoori Starters,Tandoori Starters,Dahi ke Sholey,249,550,Crispy Indian-style fried bread rolls stuffed with creamy hung curd.,5
+Tandoori Starters,Tandoori Starters,Malai Paneer Tikka,299,600,"Soft cottage-cheese cubes in a rich, creamy and mildly spiced marinade, grilled to perfection.",5
+Tandoori Starters,Tandoori Starters,Achari Paneer Tikka,299,500,"Soft cottage-cheese cubes coated in a spicy, tangy and smoky pickle-flavoured marinade.",5
+Tandoori Starters,Tandoori Starters,Mushroom Tikka,249,300,Stuffed mushrooms marinated with yoghurt and Indian spices.,5
+Tandoori Starters,Tandoori Starters,Malai Soya Chaap,310,600,Dhaba-style soya chaap marinated in a creamy sauce.,5
+Tandoori Starters,Tandoori Starters,Afghani Soya Chaap,259,550,Soya chaap cooked in a clay oven in the style of Mughlai cuisine.,5
+Tandoori Starters,Tandoori Starters,Hara Bhara Kebab,249,450,"Crisp spinach, lentil and green-pea cutlets stuffed with cashew nuts, served with tangy mint chutney.",5
+Tandoori Starters,Tandoori Starters,Dahi ke Kebab,299,500,"A creamy and crunchy kebab made with hung curd, paneer, cheese and saffron.",5
+Tandoori Starters,Tandoori Starters,Veg Platter,599,1100,"A chef-selected platter of four items, each with its own distinct flavour.",5
+Tandoori Starters,Tandoori Starters,Soya Galouti Kebab,299,450,"Mughlai-style melt-in-the-mouth soya kebabs, infused with royal spices and finished on a sizzling kebab hot plate.",5
+Indo-Chinese,Indo-Chinese,Chilli Potato,191,600,Julienned vegetables and potatoes tossed with sauces.,6
+Indo-Chinese,Indo-Chinese,Chilli Paneer,249,650,"Diced bell peppers, onion, chives and paneer tossed in the wok with ginger, garlic and sauces.",6
+Indo-Chinese,Indo-Chinese,Veg Manchurian,229 / 239,500,"Crispy fried vegetable balls in a spicy, sweet and tangy Manchurian sauce, served dry or with gravy.",6
+Indo-Chinese,Indo-Chinese,Momo,149,300,"Steamed, filled dumplings from Nepalese and Tibetan cuisine, served with hot, spicy sauce.",6
+Indo-Chinese,Indo-Chinese,Corn Salt & Pepper,299,450,"Crispy American corn wok-tossed with ginger, garlic, chopped bell peppers and onion.",6
+Indo-Chinese,Indo-Chinese,Crispy Corn,229,500,"Crispy corn wok-tossed with chopped bell peppers, onion and sauces.",6
+Indo-Chinese,Indo-Chinese,Veg Hot Garlic Sauce,229,350,Seasonal vegetables in the chef’s hot garlic sauce.,6
+Indo-Chinese,Indo-Chinese,Chilli Mushroom,249,450,"Crispy fried mushrooms tossed with diced bell peppers, onion and sauce.",6
+Indo-Chinese,Indo-Chinese,Veg Lollipop,239,550,"Minced vegetables and cottage cheese shaped into lollipops on sticks, deep-fried in fresh peanut oil. Served as eight pieces.",6
+Pizza & Sandwiches,Pizza,Classic Margherita,239,750,A traditional Italian-style pizza topped with cheese and the flavour of basil leaves.,7
+Pizza & Sandwiches,Pizza,Al Funghi,239,800,"Fresh sautéed mushrooms and onion, stir-mixed together and baked on a pizza base with plenty of cheese.",7
+Pizza & Sandwiches,Pizza,Corn & Onion,239,800,"Onion and sweet corn spread over a pizza base, with a little touch of oregano.",7
+Pizza & Sandwiches,Pizza,OTC Pizza,239,850,"Onion, tomato and capsicum pizza.",7
+Pizza & Sandwiches,Pizza,All Veggies,239,800,Stir-fried vegetables sautéed together and spread over a pizza base with plenty of cheese.,7
+Pizza & Sandwiches,Pizza,Chilli Paneer Pizza,269,950,"The flavour of chilli paneer on a pizza base, topped with cheese.",7
+Pizza & Sandwiches,Pizza,Paneer Tikka Pizza,269,950,Properly grilled paneer tikka spread over a pizza base.,7
+Pizza & Sandwiches,Pizza,Chilli Mushroom Pizza,249,850,Chilli mushrooms on a cheesy base.,7
+Pizza & Sandwiches,Sandwiches,Tandoori Paneer Tikka,219,550,"Bread layered with sauces and grilled tandoori paneer, with flavour in every bite.",7
+Pizza & Sandwiches,Sandwiches,Plain Cucumber,199,300,"Fresh cucumber slices layered in bread for a light, refreshing sandwich.",7
+Pizza & Sandwiches,Sandwiches,Coleslaw,169,450,Mixed vegetables and cabbage combined with mayonnaise and filled between slices of bread.,7
+Pizza & Sandwiches,Sandwiches,Grilled Mushroom & Cheese,199,500,Sautéed mushrooms and melted cheese layered in bread and grilled until golden.,7
+Pizza & Sandwiches,Sandwiches,Club Sandwich,199,650,"A layered vegetable sandwich, with a different flavour in every layer.",7
+Pizza & Sandwiches,Sandwiches,Grilled Paneer,199,500,"Paneer layered between slices of bread and grilled for a warm, savoury sandwich.",7
+Paneer & Dal,Paneer & Dal,Kadai Paneer,299,550,"Paneer, capsicum, tomato and onion cooked with the chef’s masala in a North Indian restaurant-style preparation.",8
+Paneer & Dal,Paneer & Dal,Paneer Butter Masala,299,650,"Paneer in a rich gravy made with butter, tomato and cashews.",8
+Paneer & Dal,Paneer & Dal,Palak Paneer,249,450,"Paneer served in a thick spinach purée, a classic dish from the Indian subcontinent.",8
+Paneer & Dal,Paneer & Dal,Paneer Do Pyaza,299,550,A Mughlai-style paneer dish tossed in a flavourful masala gravy.,8
+Paneer & Dal,Paneer & Dal,Paneer Handi,299,550,Paneer steamed with mixed vegetables and cooked in a masala gravy.,8
+Paneer & Dal,Paneer & Dal,Paneer Lababdar,299,650,"A restaurant-style North Indian curry with paneer in a creamy onion, tomato and cashew-based gravy.",8
+Paneer & Dal,Paneer & Dal,Paneer Pasanda,299,700,"Batter-coated paneer, fried and served in a smooth onion, tomato and cashew gravy.",8
+Paneer & Dal,Paneer & Dal,Paneer Kofta,299,650,"Paneer koftas served in a delicious, creamy gravy.",8
+Paneer & Dal,Paneer & Dal,Dal Tadka,229,350,"A homely preparation of yellow lentils, tempered with spices and desi ghee.",8
+Paneer & Dal,Paneer & Dal,Dal Makhani,249,450,"Whole black lentils simmered with aromatic spices, tomatoes and garlic, then finished with cream.",8
+Vegetable Classics,Vegetable Classics,Mixed Veg,249,300,Four to five types of vegetables tossed with chopped masala and Indian spices.,9
+Vegetable Classics,Vegetable Classics,Veg Handi,249,450,Steamed mixed vegetables cooked with masala in a creamy gravy.,9
+Vegetable Classics,Vegetable Classics,Baingan Bharta,249,250,"Mashed, fire-roasted eggplant cooked with onion, tomato and spices.",9
+Vegetable Classics,Vegetable Classics,Methi Mutter,199,450,A North Indian curry of fenugreek leaves and green peas in a buttery sauce.,9
+Vegetable Classics,Vegetable Classics,Aloo Mutter,199,350,Diced potatoes and peas cooked in a dhaba-style masala gravy.,9
+Vegetable Classics,Vegetable Classics,Aloo Jeera,199,350,Boiled potato chunks tossed with whole cumin seeds.,9
+Breads,Breads,Tandoori Roti,18,120,Wheat bread baked in the tandoor.,10
+Breads,Breads,Tandoori Butter Roti,24,160,Tandoori wheat bread with butter.,10
+Breads,Breads,Tawa Roti,12,100,Whole-wheat roti cooked on a tawa.,10
+Breads,Breads,Tawa Butter Roti,16,140,Tawa-cooked wheat roti with butter.,10
+Breads,Breads,Missi Roti,45,180,Spiced wheat and gram-flour roti.,10
+Breads,Breads,Plain Naan,45,250,Soft refined-flour tandoori bread.,10
+Breads,Breads,Butter Naan,55,300,Soft tandoori naan with butter.,10
+Breads,Breads,Garlic Naan,59,300,Tandoori naan flavoured with garlic.,10
+Breads,Breads,Stuffed Kulcha,89,330,Tandoori bread with savoury stuffing.,10
+Breads,Breads,Pyaaz Kulcha,55,280,Tandoori bread with an onion filling.,10
+Breads,Breads,Lachha Paratha,55,320,"Crisp, layered whole-wheat bread.",10
+Breads,Breads,Pudina Paratha,59,300,Layered bread flavoured with mint.,10
+Mocktails,Mocktails,Spicy Mango,159,200,A sweet mango mocktail with a spicy kick.,11
+Mocktails,Mocktails,Purple Orchid,139,180,A refreshing house-special mocktail.,11
+Mocktails,Mocktails,Blackcurrant Mojito,139,180,A minty mocktail with blackcurrant flavour.,11
+Mocktails,Mocktails,Blue Lagoon,129,180,"A bright blue, refreshing mocktail.",11
+Mocktails,Mocktails,Blueberry Mojito,139,180,A minty mocktail with blueberry flavour.,11
+Mocktails,Mocktails,Orange Mojito,139,170,Orange flavour with a refreshing minty twist.,11
+Mocktails,Mocktails,Fuzi Island,139,200,A refreshing house-special mocktail.,11
+Mocktails,Mocktails,Mint Caprioska,129,180,"A crisp, refreshing mint mocktail.",11
+Mocktails,Mocktails,Russian Summer,179,220,A refreshing house-special mocktail.,11
+Mocktails,Mocktails,Masala Lemonade,99,120,Lemonade with a lively masala twist.,11
+Mocktails,Mocktails,Fresh Lime Soda,99,100,Fresh lime mixed with fizzy soda.,11
+Mocktails,Mocktails,Fresh Lime Juice,79,100,A refreshing drink of fresh lime and water.,11
+Mocktails,Mocktails,Italian Ceramusa,129,220,A refreshing house-special mocktail.,11
+Mocktails,Mocktails,Bubblegum Berry Blast,139,250,A playful blend of berry and bubblegum flavours.,11
+Mocktails,Mocktails,Peach Lemonade,129,180,Refreshing lemonade with peach flavour.,11
+"Coffee, Shakes & Tea",Cold Coffee,Cold Coffee,119,350,"A chilled, creamy coffee drink.",12
+"Coffee, Shakes & Tea",Cold Coffee,Cold Coffee with Ice Cream,139,500,Cold coffee with ice cream.,12
+"Coffee, Shakes & Tea",Milkshakes,Banana,110,400,A creamy banana milkshake.,12
+"Coffee, Shakes & Tea",Milkshakes,Oreo,139,550,A creamy Oreo cookie milkshake.,12
+"Coffee, Shakes & Tea",Milkshakes,Chocolate,139,500,A rich chocolate milkshake.,12
+"Coffee, Shakes & Tea",Milkshakes,Butterscotch,139,500,A creamy butterscotch shake.,12
+"Coffee, Shakes & Tea",Milkshakes,Strawberry,139,400,A fruity strawberry milkshake.,12
+"Coffee, Shakes & Tea",Milkshakes,Mango,149,450,A creamy mango milkshake.,12
+"Coffee, Shakes & Tea",Milkshakes,Dry Fruit,179,600,A rich dry-fruit milkshake.,12
+"Coffee, Shakes & Tea",Milkshakes,Blackcurrant,139,400,A creamy blackcurrant shake.,12
+"Coffee, Shakes & Tea",Milkshakes,Blueberry,129,400,A fruity blueberry milkshake.,12
+"Coffee, Shakes & Tea",Milkshakes,Vanilla,129,400,A smooth vanilla milkshake.,12
+"Coffee, Shakes & Tea",Milkshakes,KitKat,139,550,A creamy KitKat wafer shake.,12
+"Coffee, Shakes & Tea",Coffee & Cocoa,Cappuccino,89,120,Coffee with steamed milk and foam.,12
+"Coffee, Shakes & Tea",Coffee & Cocoa,Mocaccino,101,220,Coffee with chocolate and milk.,12
+"Coffee, Shakes & Tea",Coffee & Cocoa,Black Coffee,49,5,Fresh coffee served without milk.,12
+"Coffee, Shakes & Tea",Coffee & Cocoa,Hot Chocolate,119,300,"A warm, rich chocolate drink.",12
+"Coffee, Shakes & Tea",Coffee & Cocoa,Caffè Latte,99,150,Coffee with smooth steamed milk.,12
+"Coffee, Shakes & Tea",Tea,Lemon Tea,49,40,Tea with a refreshing lemon touch.,12
+"Coffee, Shakes & Tea",Tea,Ginger Tea,30,100,A warming ginger-flavoured tea.,12
+"Coffee, Shakes & Tea",Tea,Masala Tea,30,110,Tea brewed with aromatic spices.,12
+"Coffee, Shakes & Tea",Tea,Plain Tea,30,100,A comforting cup of milk tea.,12
+Desserts,Desserts,Gulab Jamun,50,300,"Two pieces, warm syrup.",13
+Desserts,Desserts,Dry Fruit Kheer,149,350,Creamy rice pudding with dry fruits.,13
+Desserts,Desserts,Gajar ka Halwa,109,450,"A rich, slow-cooked carrot dessert.",13
+Desserts,Desserts,Moong Dal Halwa,99,500,"A rich, sweet moong-lentil dessert.",13
+Desserts,Desserts,Churma Ladoo,50,250,Sweet wheat-flour laddoos.,13
+Desserts,Desserts,Mawa Chori,40,350,Sweet pastry with a rich mawa filling.,13
+Desserts,Desserts,Cham Cham,30,180,"Soft, syrup-soaked chhena sweets.",13
+Desserts,Desserts,Ice Cream,69,200,"A chilled, creamy sweet treat.",13
+Chef’s Special,Chef’s Special,Salt & Pepper Corn,299,450,,14
+Chef’s Special,Chef’s Special,Crispy Veg,289,500,,14
+Chef’s Special,Chef’s Special,Hong Kong Style Paneer Mancho,349,650,,14
+Chef’s Special,Chef’s Special,Thread Paneer,310,600,,14
+Chef’s Special,Chef’s Special,Kesary Kofta Curry,349,650,,14
+Chef’s Special,Chef’s Special,Soya Galouti Kebab,299,450,,14
+Chef’s Special,Chef’s Special,Soya Malai Chaap,310,600,,14
+Chef’s Special,Chef’s Special,Adraki Paneer,325,550,,14
+Chef’s Special,Chef’s Special,Amritsari Paneer Bhurji,299,600,,14
+Chef’s Special,Chef’s Special,Lahori Soya Changeji,310,600,,14
+Chef’s Special,Chef’s Special,Lahori Paneer Changeji,335,650,,14
+Chef’s Special,Chef’s Special,Paneer Tikka Butter Masala,310,650,,14
+Chef’s Special,Chef’s Special,Crunchy Paneer Diamond Sandwich,249,650,,14
+Chef’s Special,Chef’s Special,Cheese Blast Sandwich,249,700,,14
+Chef’s Special,Chef’s Special,Rajma Rasila Punjabi Style,299,350,,14
+Chef’s Special,Chef’s Special,Pindi Chana,289,400,,14
